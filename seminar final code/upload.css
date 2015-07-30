@@ -1,0 +1,91 @@
+body
+{
+background-color:#003972;
+
+}
+#lo
+{
+width:650px;
+height:140px;
+margin-left:27%;
+float:left;
+}
+
+
+#btn3
+{
+
+width:100px;
+height:40px;
+margin-top:45px;
+margin-left:10%;
+font-size:14px;
+}
+
+
+#wel
+{
+color:white;
+margin-left:27%;
+font-family: 'Open Sans',arial,sans-serif;
+font-size:20px;
+float:left;
+}
+
+#bal
+{
+color:white;
+margin-right:25%;
+font-family: 'Open Sans',arial,sans-serif;
+font-size:20px;
+float:right;
+}
+
+th
+{
+color:white;
+font-size:20px;
+background-color:#425B82;
+text-align:center;
+border-radius:5px 5px 5px;
+}
+#button1 
+{
+margin-left:35%;
+width:250px;
+height:30px;
+font-size:16px;
+}
+
+#button2
+{
+margin-left:80px;
+width:100px;
+height:30px;
+font-size:16px;
+}
+
+table
+{
+background-color:#B3BDCD;
+width:950px;
+padding:15px;
+border-radius:20px 20px 20px;
+box-shadow:10px 10px 15px;
+}
+
+td
+{
+background-color:white;
+text-align:center;
+border-radius:5px 5px 5px;
+font-size:16px;
+}
+
+p
+{
+color:white;
+font-family:"Times New Roman",Georgia,Serif;
+font-size:20px;
+font-style: italic;
+}

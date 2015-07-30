@@ -1,0 +1,38 @@
+C:\Users\admin\AppData\Local\Temporary Projects\seminar\bin\Debug\seminar.exe
+C:\Users\admin\AppData\Local\Temporary Projects\seminar\bin\Debug\seminar.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\seminar\bin\Debug\seminar.xml
+C:\Users\admin\AppData\Local\Temporary Projects\seminar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\AppData\Local\Temporary Projects\seminar\obj\Debug\seminar.Attachments.resources
+C:\Users\admin\AppData\Local\Temporary Projects\seminar\obj\Debug\seminar.Login.resources
+C:\Users\admin\AppData\Local\Temporary Projects\seminar\obj\Debug\seminar.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\seminar\obj\Debug\seminar.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\seminar\obj\Debug\seminar.exe
+C:\Users\admin\AppData\Local\Temporary Projects\seminar\obj\Debug\seminar.xml
+C:\Users\admin\AppData\Local\Temporary Projects\seminar\obj\Debug\seminar.pdb
+D:\suppu project\seminar\seminar\obj\Debug\seminar.exe
+D:\suppu project\seminar\seminar\obj\Debug\seminar.xml
+D:\suppu project\seminar\seminar\obj\Debug\seminar.pdb
+D:\suppu project\seminar\seminar\bin\Debug\seminar.exe
+D:\suppu project\seminar\seminar\bin\Debug\seminar.pdb
+D:\suppu project\seminar\seminar\bin\Debug\seminar.xml
+D:\suppu project\seminar\seminar\obj\Debug\ResolveAssemblyReference.cache
+D:\suppu project\seminar\seminar\obj\Debug\seminar.Attachments.resources
+D:\suppu project\seminar\seminar\obj\Debug\seminar.Login.resources
+D:\suppu project\seminar\seminar\obj\Debug\seminar.Resources.resources
+D:\suppu project\seminar\seminar\obj\Debug\seminar.vbproj.GenerateResource.Cache
+D:\suppu project\seminar project\seminar\seminar\obj\Debug\seminar.exe
+D:\suppu project\seminar project\seminar\seminar\obj\Debug\seminar.xml
+D:\suppu project\seminar project\seminar\seminar\obj\Debug\seminar.pdb
+D:\suppu project\seminar project\seminar\seminar\bin\Debug\seminar.exe
+D:\suppu project\seminar project\seminar\seminar\bin\Debug\seminar.pdb
+D:\suppu project\seminar project\seminar\seminar\bin\Debug\seminar.xml
+D:\suppu project\seminar project\seminar\seminar\obj\Debug\ResolveAssemblyReference.cache
+D:\suppu project\seminar project\seminar\seminar\obj\Debug\seminar.Attachments.resources
+D:\suppu project\seminar project\seminar\seminar\obj\Debug\seminar.Login.resources
+D:\suppu project\seminar project\seminar\seminar\obj\Debug\seminar.Resources.resources
+D:\suppu project\seminar project\seminar\seminar\obj\Debug\seminar.vbproj.GenerateResource.Cache
+D:\suppu project\seminar project\seminar\seminar\bin\Debug\seminar.exe.config
+H:\seminar\seminar\bin\Debug\seminar.exe.config
+H:\seminar\seminar\obj\Debug\seminar.exe
+H:\seminar\seminar\obj\Debug\seminar.xml
+H:\seminar\seminar\obj\Debug\seminar.pdb
